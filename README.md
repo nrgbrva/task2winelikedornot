@@ -1,2 +1,2 @@
-# task2winelikedornot
+# winetask
 Created with CodeSandbox
